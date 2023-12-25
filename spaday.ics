@@ -4,7 +4,7 @@ BEGIN:VEVENT
 SUMMARY:🛁 水疗日 (Spa Day)
 DTSTART;TZID=Europe/London:20240511T110000
 DTEND;TZID=Europe/London:20240511T130000
-LOCATION:帕丁顿精品水疗中心 (Paddington Boutique Spa)
+LOCATION:帕丁顿精品水疗中心 (Paddington Boutique Spa) The Chilworth hotel, 55 Westbourne Terrace, London W2 3UZ
 DESCRIPTION:多謝你照顧我哋，而家輪到你照顧自己。 (Thank you for looking after us, now you get to look after yourself.)
 END:VEVENT
 END:VCALENDAR
